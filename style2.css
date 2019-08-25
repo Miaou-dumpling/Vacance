@@ -1,0 +1,28 @@
+body
+{
+    background: url("blue-blackground.png") fixed repeat;
+}
+body
+{
+font-family: Aril;
+}
+p, ul
+{
+font-size:1.4em	
+}
+.floatingimage
+{
+    float: right;
+}
+
+h2
+{
+background-color: rgb(255, 255, 128, 0.3); /* Fond rouge à moitié transparent */
+}
+
+p
+{
+    text-align: justify;
+}
+
+

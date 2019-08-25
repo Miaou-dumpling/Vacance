@@ -1,0 +1,37 @@
+body
+{
+    background: url("snow.jpg") fixed no-repeat top right;
+}
+@font-face {
+    font-family: 'amadeusregular';
+    src:
+         url('fonts/Amadeus-webfont.woff') format('woff'),
+         url('fonts/Amadeus-webfont.ttf') format('truetype'),
+         url('fonts/Amadeus-webfont.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+h1, h2
+{font-family: 'amadeusregular', Arial, serif;
+}
+h1, h2
+{
+	font-size: 1.8em
+}
+p, ul, figcaption
+{
+	font-family: calibri
+}
+p, ul, figcaption
+{
+	font-size: 1.4em
+}
+p
+{  
+	text-align: justify;
+}
+
+.important
+{
+color: red;	
+}
